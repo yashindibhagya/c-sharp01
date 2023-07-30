@@ -1,0 +1,15 @@
+/Users/nominsendinu/Desktop/NSBM/practicals/C_sharp/Lab_6/Q8/lab_6/lab_6/bin/Debug/net7.0/lab_6
+/Users/nominsendinu/Desktop/NSBM/practicals/C_sharp/Lab_6/Q8/lab_6/lab_6/bin/Debug/net7.0/lab_6.deps.json
+/Users/nominsendinu/Desktop/NSBM/practicals/C_sharp/Lab_6/Q8/lab_6/lab_6/bin/Debug/net7.0/lab_6.runtimeconfig.json
+/Users/nominsendinu/Desktop/NSBM/practicals/C_sharp/Lab_6/Q8/lab_6/lab_6/bin/Debug/net7.0/lab_6.dll
+/Users/nominsendinu/Desktop/NSBM/practicals/C_sharp/Lab_6/Q8/lab_6/lab_6/bin/Debug/net7.0/lab_6.pdb
+/Users/nominsendinu/Desktop/NSBM/practicals/C_sharp/Lab_6/Q8/lab_6/lab_6/obj/Debug/net7.0/lab_6.csproj.AssemblyReference.cache
+/Users/nominsendinu/Desktop/NSBM/practicals/C_sharp/Lab_6/Q8/lab_6/lab_6/obj/Debug/net7.0/lab_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nominsendinu/Desktop/NSBM/practicals/C_sharp/Lab_6/Q8/lab_6/lab_6/obj/Debug/net7.0/lab_6.AssemblyInfoInputs.cache
+/Users/nominsendinu/Desktop/NSBM/practicals/C_sharp/Lab_6/Q8/lab_6/lab_6/obj/Debug/net7.0/lab_6.AssemblyInfo.cs
+/Users/nominsendinu/Desktop/NSBM/practicals/C_sharp/Lab_6/Q8/lab_6/lab_6/obj/Debug/net7.0/lab_6.csproj.CoreCompileInputs.cache
+/Users/nominsendinu/Desktop/NSBM/practicals/C_sharp/Lab_6/Q8/lab_6/lab_6/obj/Debug/net7.0/lab_6.dll
+/Users/nominsendinu/Desktop/NSBM/practicals/C_sharp/Lab_6/Q8/lab_6/lab_6/obj/Debug/net7.0/refint/lab_6.dll
+/Users/nominsendinu/Desktop/NSBM/practicals/C_sharp/Lab_6/Q8/lab_6/lab_6/obj/Debug/net7.0/lab_6.pdb
+/Users/nominsendinu/Desktop/NSBM/practicals/C_sharp/Lab_6/Q8/lab_6/lab_6/obj/Debug/net7.0/lab_6.genruntimeconfig.cache
+/Users/nominsendinu/Desktop/NSBM/practicals/C_sharp/Lab_6/Q8/lab_6/lab_6/obj/Debug/net7.0/ref/lab_6.dll
